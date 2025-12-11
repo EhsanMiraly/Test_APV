@@ -202,7 +202,7 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -647,7 +647,7 @@ MonoBehaviour:
       height: 864
     m_MinimalGUI: 1
   m_defaultScale: 0.51319444
-  m_LastWindowPixelSize: {x: 1052.75, y: 580.5}
+  m_LastWindowPixelSize: {x: 842.2, y: 464.4}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1291,9 +1291,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 3.8945394, y: 5.8365498, z: 6.2782373}
+    m_Target: {x: -7.235858, y: 10.621562, z: -10.110385}
     speed: 2
-    m_Value: {x: 3.8944724, y: 5.83655, z: 6.2782764}
+    m_Value: {x: -7.2358303, y: 10.621554, z: -10.110386}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1326,7 +1326,7 @@ MonoBehaviour:
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
+      m_Size: {x: 5, y: 5}
     zGrid:
       m_Fade:
         m_Target: 0
@@ -1339,9 +1339,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.066137664, y: 0.28250712, z: -0.019520342, w: 0.95682395}
+    m_Target: {x: -0.19768745, y: -0.31828177, z: 0.068035625, w: -0.9247095}
     speed: 2
-    m_Value: {x: 0.06620495, y: 0.27904987, z: -0.019281372, w: 0.95779765}
+    m_Value: {x: -0.19775906, y: -0.31715593, z: 0.06779494, w: -0.9250445}
   m_Size:
     m_Target: 10
     speed: 2
@@ -1554,14 +1554,14 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: -1320
       m_LastClickedID:
-        m_Data: 0
+        m_Data: -1320
       m_ExpandedIDs:
-      - m_Data: -4062
+      - m_Data: -1306
+      - m_Data: -1302
       - m_Data: -1300
-      - m_Data: 47168
-      - m_Data: 47198
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1636,7 +1636,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/App
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1646,7 +1646,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/App
+  - Assets
   m_LastFoldersGridSize: 96
   m_LastProjectPath: D:\UPs\Test_APV
   m_LockTracker:
@@ -1655,12 +1655,12 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 47646
+    - m_Data: 47324
     m_LastClickedID:
-      m_Data: 47646
+      m_Data: 47324
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 47308
+    - m_Data: 47324
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1694,7 +1694,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 47308
+    - m_Data: 47324
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1721,9 +1721,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs:
+    - m_Data: -1320
+    m_LastClickedInstanceID: -1320
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs:
     - m_Data: 61762
     m_RenameOverlay:
@@ -1832,126 +1833,8 @@ MonoBehaviour:
     m_OverlaysVisible: 1
     m_DynamicPanelBehavior: 0
   m_WidgetStates:
-    m_Keys:
-    - Frequently Used -> Lighting Debug Modes -> Lighting Features
-    - Frequently Used -> Lighting Debug Modes -> HDR Debug Mode
-    - Frequently Used -> Lighting Debug Modes -> Lighting Debug Mode
-    - Frequently Used -> Lighting Debug Modes
-    - Frequently Used -> Material Filters -> Vertex Attribute
-    - Frequently Used -> Material Filters -> Material Override
-    - Frequently Used -> Material Filters
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming -> Debug View
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming -> Disable Mip Caching
-    - Frequently Used -> Rendering Debug -> Overdraw Mode
-    - Frequently Used -> Rendering Debug -> Additional Wireframe Modes
-    - Frequently Used -> Rendering Debug -> Post-processing
-    - Frequently Used -> Rendering Debug -> TAA Debug Mode
-    - Frequently Used -> Rendering Debug -> MSAA
-    - Frequently Used -> Rendering Debug -> HDR
-    - Frequently Used -> Rendering Debug ->  -> Map Size
-    - Frequently Used -> Rendering Debug -> Map Overlays
-    - Frequently Used -> Rendering Debug
-    - Display Stats -> Frame Stats
-    - Display Stats -> Bottlenecks
-    - Display Stats -> Detailed Stats
-    - Probe Volumes -> Subdivision Visualization -> Display Cells
-    - Probe Volumes -> Subdivision Visualization -> Display Bricks
-    - Probe Volumes -> Subdivision Visualization -> Debug Draw Distance
-    - Probe Volumes -> Subdivision Preview -> Live Updates
-    - Probe Volumes -> Subdivision Preview ->  -> Cell Updates Per Frame
-    - Probe Volumes -> Subdivision Preview ->  -> Update Frequency
-    - Probe Volumes -> Probe Visualization -> Display Probes
-    - Probe Volumes -> Probe Visualization ->  -> Probe Shading Mode
-    - Probe Volumes -> Probe Visualization ->  -> Debug Size
-    - Probe Volumes -> Probe Visualization ->  -> Exposure Compensation
-    - Probe Volumes -> Probe Visualization ->  -> Max Subdivisions Displayed
-    - Probe Volumes -> Probe Visualization ->  -> Min Subdivisions Displayed
-    - Probe Volumes -> Probe Visualization -> Debug Probe Sampling
-    - Probe Volumes -> Probe Visualization ->  -> Debug With Sampling Noise
-    - Probe Volumes -> Probe Visualization -> Virtual Offset Debug
-    - Probe Volumes -> Probe Visualization -> Debug Draw Distance
-    - Probe Volumes -> Probe Adjustment Volumes -> Auto Display Probes
-    - Probe Volumes -> Probe Adjustment Volumes -> Isolate Affected
-    - Probe Volumes -> Streaming -> Freeze Streaming
-    - Probe Volumes -> Streaming -> Display Streaming Score
-    - Probe Volumes -> Streaming -> Maximum cell streaming
-    - Probe Volumes -> Streaming ->  -> Loaded Cells Per Frame
-    - Probe Volumes -> Streaming -> Display Index Fragmentation
-    - Probe Volumes -> Streaming -> Verbose Log
-    - Probe Volumes -> Streaming -> Debug Streaming
-    - Probe Volumes -> Scenario Blending -> Number Of Cells Blended Per Frame
-    - Probe Volumes -> Scenario Blending -> Turnover Rate
-    - Probe Volumes -> Scenario Blending -> Scenario Blend Target
-    - Probe Volumes -> Scenario Blending -> Scenario Blending Factor
-    - Rendering -> Pixel Validation
-    - Rendering -> HDR Output
-    - Rendering -> GPU Resident Drawer Settings
-    - Rendering -> Occlusion Context Stats
-    - Rendering -> Instance Culler Stats
-    - Rendering -> Render Graph
-    - Material -> Material Validation
-    - Volume -> Camera
-    - Volume -> Component
-    m_Values:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    m_Keys: []
+    m_Values: []
   m_Settings: {fileID: 0}
 --- !u!114 &22
 MonoBehaviour:
